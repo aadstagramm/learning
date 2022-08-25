@@ -1,0 +1,995 @@
+
+[
+  {
+    "timeperiod": {
+      "year": 2019,
+      "quarter": 4
+    },
+    "spvList": [
+      {
+        "totalDistributions": 68881.65,
+        "spvName": "ACCESS",
+        "spvLongName": "TFO Access Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10212,
+            "dealName": "Access Fund Class AG KKR BOI",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 8683.41
+          },
+          {
+            "dealId": 10198,
+            "dealName": "Access Fund Class P Project Big Sky",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 1251.55
+          },
+          {
+            "dealId": 11392,
+            "dealName": "Access Fund - Class AR Project Athena",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 20231.96
+          },
+          {
+            "dealId": 10208,
+            "dealName": "Access Fund Class D KKR BELK",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 15911.94
+          },
+          {
+            "dealId": 10195,
+            "dealName": "Access Fund Class S Toorak",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 15546.27
+          },
+          {
+            "dealId": 11137,
+            "dealName": "Access Fund - Class AJ Project North",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 7256.52
+          }
+        ]
+      },
+      {
+        "totalDistributions": 121164.24,
+        "spvName": "RECO",
+        "spvLongName": "TFO Real Estate Co-Investment Program",
+        "dealsData": [
+          {
+            "dealId": 10780,
+            "dealName": "RECO - Silver Springs",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 8531.26
+          },
+          {
+            "dealId": 10773,
+            "dealName": "RECO - Novant",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 6212.96
+          },
+          {
+            "dealId": 10777,
+            "dealName": "RECO - Quality Circle",
+            "distributionDate": "2019-11-19",
+            "type": "Captial Gain",
+            "amount": 8652.14
+          },
+          {
+            "dealId": 10777,
+            "dealName": "RECO - Quality Circle",
+            "distributionDate": "2019-11-19",
+            "type": "Capital Return",
+            "amount": 97767.88
+          }
+        ]
+      },
+      {
+        "totalDistributions": 30102.21,
+        "spvName": "AGPE",
+        "spvLongName": "TFO Asia Gateway Private Equity Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10230,
+            "dealName": "AGPE Fund - Class G Lu Daopei Hospitals",
+            "distributionDate": "2019-10-01",
+            "type": "Capital Return",
+            "amount": 30102.21
+          }
+        ]
+      },
+      {
+        "totalDistributions": 1377795.41,
+        "spvName": "ChinaVest",
+        "spvLongName": "TFO ChinaVest SPC",
+        "dealsData": [
+          {
+            "dealId": 10405,
+            "dealName": "ChinaVest - Class A",
+            "distributionDate": "2019-12-24",
+            "type": "Captial Gain",
+            "amount": 1205.5
+          },
+          {
+            "dealId": 10405,
+            "dealName": "ChinaVest - Class A",
+            "distributionDate": "2019-12-24",
+            "type": "Capital Return",
+            "amount": 1192327.92
+          },
+          {
+            "dealId": 10404,
+            "dealName": "ChinaVest - Class B",
+            "distributionDate": "2019-12-24",
+            "type": "Capital Return",
+            "amount": 184261.99
+          }
+        ]
+      },
+      {
+        "totalDistributions": 11316.85,
+        "spvName": "AGRECO",
+        "spvLongName": "TFO Asia Gateway Real Estate Co-Investment Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 11138,
+            "dealName": "AGRE - Class F Project Ranger",
+            "distributionDate": "2019-10-01",
+            "type": "Income Distribution",
+            "amount": 11316.85
+          }
+        ]
+      },
+      {
+        "totalDistributions": 35545.59,
+        "spvName": "DYF",
+        "spvLongName": "TFO Diversified Yielding Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10469,
+            "dealName": "DYF - Ship Finance - MFC",
+            "distributionDate": "2019-10-10",
+            "type": "Capital Return",
+            "amount": 23362.27
+          },
+          {
+            "dealId": 11623,
+            "dealName": "DYF - Cabot",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 459.6
+          },
+          {
+            "dealId": 11602,
+            "dealName": "DYF - Real Estate Fin V - Project Burnham",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 3284.58
+          },
+          {
+            "dealId": 10469,
+            "dealName": "DYF - Ship Finance - MFC",
+            "distributionDate": "2019-12-31",
+            "type": "Capital Return",
+            "amount": 6254.07
+          },
+          {
+            "dealId": 11605,
+            "dealName": "DYF - TFO CLO SP (Birchgrove)",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 2185.07
+          }
+        ]
+      },
+      {
+        "totalDistributions": 56283.55,
+        "spvName": "PECO",
+        "spvLongName": "TFO Private Equity Co-Investment Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10623,
+            "dealName": "PECO - Class CA Extraction",
+            "distributionDate": "2019-12-09",
+            "type": "Capital Return",
+            "amount": 126808.88
+          },
+          {
+            "dealId": 10623,
+            "dealName": "PECO - Class CA Extraction",
+            "distributionDate": "2019-12-09",
+            "type": "Captial Gain",
+            "amount": -70525.33
+          }
+        ]
+      },
+      {
+        "totalDistributions": 1123485.42,
+        "spvName": "FIRF III",
+        "spvLongName": "TFO FIRF III SPC",
+        "dealsData": [
+          {
+            "dealId": 10538,
+            "dealName": "FIRF III - Class HH BCBP",
+            "distributionDate": "2019-11-14",
+            "type": "Capital Return",
+            "amount": 363927.78
+          },
+          {
+            "dealId": 10538,
+            "dealName": "FIRF III - Class HH BCBP",
+            "distributionDate": "2019-11-14",
+            "type": "Captial Gain",
+            "amount": 55266.63
+          },
+          {
+            "dealId": 10540,
+            "dealName": "FIRF III - Class FF SMBK",
+            "distributionDate": "2019-12-02",
+            "type": "Captial Gain",
+            "amount": 169507.12
+          },
+          {
+            "dealId": 10540,
+            "dealName": "FIRF III - Class FF SMBK",
+            "distributionDate": "2019-12-02",
+            "type": "Capital Return",
+            "amount": 534783.89
+          }
+        ]
+      },
+      {
+        "totalDistributions": 55193.56,
+        "spvName": "REVA",
+        "spvLongName": "TFO Real Estate Value Add Program SPC",
+        "dealsData": [
+          {
+            "dealId": 10802,
+            "dealName": "REVA Crestwood",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 8681.28
+          },
+          {
+            "dealId": 11218,
+            "dealName": "REVA Project North",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 4744.94
+          },
+          {
+            "dealId": 11404,
+            "dealName": "REVA Encino",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 2274.42
+          },
+          {
+            "dealId": 10807,
+            "dealName": "REVA Plymouth Corporate Center",
+            "distributionDate": "2019-12-31",
+            "type": "Income Distribution",
+            "amount": 39492.92
+          }
+        ]
+      },
+      {
+        "totalDistributions": 3139943.86,
+        "spvName": "Distressed Opps",
+        "spvLongName": "TFO Distressed Opportunistic Segregated Portfolio",
+        "dealsData": [
+          {
+            "dealId": 10434,
+            "dealName": "Distressed Opps - Class A",
+            "distributionDate": "2019-10-29",
+            "type": "Capital Return",
+            "amount": 3139943.86
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timeperiod": {
+      "year": 2020,
+      "quarter": 1
+    },
+    "spvList": [
+      {
+        "totalDistributions": 11994.44,
+        "spvName": "AGPE",
+        "spvLongName": "TFO Asia Gateway Private Equity Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10231,
+            "dealName": "AGPE Fund - Class F World Gym Taiwan",
+            "distributionDate": "2020-01-16",
+            "type": "Income Distribution",
+            "amount": 11994.44
+          }
+        ]
+      },
+      {
+        "totalDistributions": 2642796.6,
+        "spvName": "ChinaVest",
+        "spvLongName": "TFO ChinaVest SPC",
+        "dealsData": [
+          {
+            "dealId": 10405,
+            "dealName": "ChinaVest - Class A",
+            "distributionDate": "2020-03-16",
+            "type": "Captial Gain",
+            "amount": 336510.07
+          },
+          {
+            "dealId": 10404,
+            "dealName": "ChinaVest - Class B",
+            "distributionDate": "2020-03-16",
+            "type": "Capital Return",
+            "amount": 391205.57
+          },
+          {
+            "dealId": 10405,
+            "dealName": "ChinaVest - Class A",
+            "distributionDate": "2020-03-16",
+            "type": "Capital Return",
+            "amount": 1915080.96
+          }
+        ]
+      },
+      {
+        "totalDistributions": 3753.99,
+        "spvName": "DYF",
+        "spvLongName": "TFO Diversified Yielding Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 11605,
+            "dealName": "DYF - TFO CLO SP (Birchgrove)",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 1481.4
+          },
+          {
+            "dealId": 11602,
+            "dealName": "DYF - Real Estate Fin V - Project Burnham",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 1642.29
+          },
+          {
+            "dealId": 11623,
+            "dealName": "DYF - Cabot",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 630.3
+          }
+        ]
+      },
+      {
+        "totalDistributions": 847888.82,
+        "spvName": "PECO",
+        "spvLongName": "TFO Private Equity Co-Investment Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10660,
+            "dealName": "PECO - Class AV FMS Services",
+            "distributionDate": "2020-03-09",
+            "type": "Capital Return",
+            "amount": 503880.52
+          },
+          {
+            "dealId": 10581,
+            "dealName": "PECO - Class AZ Baby Jasper Max Ltd",
+            "distributionDate": "2020-03-09",
+            "type": "Capital Return",
+            "amount": 73883.27
+          },
+          {
+            "dealId": 10581,
+            "dealName": "PECO - Class AZ Baby Jasper Max Ltd",
+            "distributionDate": "2020-03-09",
+            "type": "Captial Gain",
+            "amount": 149789.28
+          },
+          {
+            "dealId": 10607,
+            "dealName": "PECO - Class BS ABR",
+            "distributionDate": "2020-03-18",
+            "type": "Capital Return",
+            "amount": 269580.04
+          },
+          {
+            "dealId": 10660,
+            "dealName": "PECO - Class AV FMS Services",
+            "distributionDate": "2020-03-09",
+            "type": "Captial Gain",
+            "amount": -177925.42
+          },
+          {
+            "dealId": 10636,
+            "dealName": "PECO - Class AI Life Sciences Research",
+            "distributionDate": "2020-03-18",
+            "type": "Income Distribution",
+            "amount": 28681.13
+          }
+        ]
+      },
+      {
+        "totalDistributions": 61668.53,
+        "spvName": "RECO",
+        "spvLongName": "TFO Real Estate Co-Investment Program",
+        "dealsData": [
+          {
+            "dealId": 10776,
+            "dealName": "RECO - Praire",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 1531.32
+          },
+          {
+            "dealId": 10785,
+            "dealName": "RECO - Arch Street",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 3611.94
+          },
+          {
+            "dealId": 10794,
+            "dealName": "RECO - Eagle Point",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 19161.67
+          },
+          {
+            "dealId": 10782,
+            "dealName": "RECO - Timberlake",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 1979.98
+          },
+          {
+            "dealId": 10790,
+            "dealName": "RECO - Coach",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 883.24
+          },
+          {
+            "dealId": 10765,
+            "dealName": "RECO - Legends",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 1639.96
+          },
+          {
+            "dealId": 10772,
+            "dealName": "RECO - Mosaic Falls",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 1083.4
+          },
+          {
+            "dealId": 10778,
+            "dealName": "RECO - Reflection",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 13266.43
+          },
+          {
+            "dealId": 10773,
+            "dealName": "RECO - Novant",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 6212.96
+          },
+          {
+            "dealId": 10787,
+            "dealName": "RECO - Carrington",
+            "distributionDate": "2020-02-06",
+            "type": "Income Distribution",
+            "amount": 3766.36
+          },
+          {
+            "dealId": 10780,
+            "dealName": "RECO - Silver Springs",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 8531.27
+          }
+        ]
+      },
+      {
+        "totalDistributions": 1481079.2,
+        "spvName": "ACCESS",
+        "spvLongName": "TFO Access Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 11137,
+            "dealName": "Access Fund - Class AJ Project North",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 7256.52
+          },
+          {
+            "dealId": 11072,
+            "dealName": "Access Fund Class AH Hudson",
+            "distributionDate": "2020-03-27",
+            "type": "Capital Return",
+            "amount": 557490.39
+          },
+          {
+            "dealId": 11072,
+            "dealName": "Access Fund Class AH Hudson",
+            "distributionDate": "2020-03-27",
+            "type": "Captial Gain",
+            "amount": -89753.26
+          },
+          {
+            "dealId": 10201,
+            "dealName": "Access Fund Class J Webhelp",
+            "distributionDate": "2020-01-27",
+            "type": "Capital Return",
+            "amount": 491283.31
+          },
+          {
+            "dealId": 10220,
+            "dealName": "Access Fund - Class AD Q-Park",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 124258.32
+          },
+          {
+            "dealId": 10208,
+            "dealName": "Access Fund Class D KKR BELK",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 16352.4
+          },
+          {
+            "dealId": 10195,
+            "dealName": "Access Fund Class S Toorak",
+            "distributionDate": "2020-03-31",
+            "type": "Capital Return",
+            "amount": 43260.82
+          },
+          {
+            "dealId": 11392,
+            "dealName": "Access Fund - Class AR Project Athena",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 20231.96
+          },
+          {
+            "dealId": 11477,
+            "dealName": "Access Fund - Class AX Vertigo",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 26975.95
+          },
+          {
+            "dealId": 10212,
+            "dealName": "Access Fund Class AG KKR BOI",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 8683.41
+          },
+          {
+            "dealId": 10195,
+            "dealName": "Access Fund Class S Toorak",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 5093.11
+          },
+          {
+            "dealId": 10201,
+            "dealName": "Access Fund Class J Webhelp",
+            "distributionDate": "2020-01-27",
+            "type": "Captial Gain",
+            "amount": 268694.72
+          },
+          {
+            "dealId": 10198,
+            "dealName": "Access Fund Class P Project Big Sky",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 1251.55
+          }
+        ]
+      },
+      {
+        "totalDistributions": 56956.48,
+        "spvName": "REVA",
+        "spvLongName": "TFO Real Estate Value Add Program SPC",
+        "dealsData": [
+          {
+            "dealId": 11218,
+            "dealName": "REVA Project North",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 4744.94
+          },
+          {
+            "dealId": 11387,
+            "dealName": "REVA Vertigo",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 6470.28
+          },
+          {
+            "dealId": 11404,
+            "dealName": "REVA Encino",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 2274.42
+          },
+          {
+            "dealId": 10802,
+            "dealName": "REVA Crestwood",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 3973.92
+          },
+          {
+            "dealId": 10807,
+            "dealName": "REVA Plymouth Corporate Center",
+            "distributionDate": "2020-03-31",
+            "type": "Income Distribution",
+            "amount": 39492.92
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timeperiod": {
+      "year": 2020,
+      "quarter": 2
+    },
+    "spvList": [
+      {
+        "totalDistributions": 1650240.76,
+        "spvName": "ACCESS",
+        "spvLongName": "TFO Access Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10200,
+            "dealName": "Access Fund Class K LGC",
+            "distributionDate": "2020-06-17",
+            "type": "Capital Return",
+            "amount": 495545.9
+          },
+          {
+            "dealId": 11477,
+            "dealName": "Access Fund - Class AX Vertigo",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 884.51
+          },
+          {
+            "dealId": 10212,
+            "dealName": "Access Fund Class AG KKR BOI",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 23349.63
+          },
+          {
+            "dealId": 10220,
+            "dealName": "Access Fund - Class AD Q-Park",
+            "distributionDate": "2020-04-03",
+            "type": "Capital Return",
+            "amount": 562383.39
+          },
+          {
+            "dealId": 10208,
+            "dealName": "Access Fund Class D KKR BELK",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 53080.72
+          },
+          {
+            "dealId": 10195,
+            "dealName": "Access Fund Class S Toorak",
+            "distributionDate": "2020-06-30",
+            "type": "Capital Return",
+            "amount": 14185.04
+          },
+          {
+            "dealId": 10200,
+            "dealName": "Access Fund Class K LGC",
+            "distributionDate": "2020-06-17",
+            "type": "Captial Gain",
+            "amount": 500379.13
+          },
+          {
+            "dealId": 11137,
+            "dealName": "Access Fund - Class AJ Project North",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 432.44
+          }
+        ]
+      },
+      {
+        "totalDistributions": 2203.12,
+        "spvName": "RECO",
+        "spvLongName": "TFO Real Estate Co-Investment Program",
+        "dealsData": [
+          {
+            "dealId": 10775,
+            "dealName": "RECO - Plantation",
+            "distributionDate": "2020-05-05",
+            "type": "Income Distribution",
+            "amount": 2203.12
+          }
+        ]
+      },
+      {
+        "totalDistributions": 186097.61,
+        "spvName": "REVA",
+        "spvLongName": "TFO Real Estate Value Add Program SPC",
+        "dealsData": [
+          {
+            "dealId": 11387,
+            "dealName": "REVA Vertigo",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 3500
+          },
+          {
+            "dealId": 10807,
+            "dealName": "REVA Plymouth Corporate Center",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 39492.92
+          },
+          {
+            "dealId": 10804,
+            "dealName": "REVA Tilden",
+            "distributionDate": "2020-05-14",
+            "type": "Capital Return",
+            "amount": 135527.17
+          },
+          {
+            "dealId": 10804,
+            "dealName": "REVA Tilden",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 5707.91
+          },
+          {
+            "dealId": 11404,
+            "dealName": "REVA Encino",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 1436.38
+          },
+          {
+            "dealId": 11218,
+            "dealName": "REVA Project North",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 433.23
+          }
+        ]
+      },
+      {
+        "totalDistributions": 57479.62,
+        "spvName": "CREDIT OPPS",
+        "spvLongName": "TFO Credit Opportunities SPC",
+        "dealsData": [
+          {
+            "dealId": 10426,
+            "dealName": "Credit Opps - Class A",
+            "distributionDate": "2020-05-18",
+            "type": "Capital Return",
+            "amount": 57479.62
+          }
+        ]
+      },
+      {
+        "totalDistributions": 63251.09,
+        "spvName": "Distressed Opps",
+        "spvLongName": "TFO Distressed Opportunistic Segregated Portfolio",
+        "dealsData": [
+          {
+            "dealId": 10434,
+            "dealName": "Distressed Opps - Class A",
+            "distributionDate": "2020-05-18",
+            "type": "Capital Return",
+            "amount": 63251.09
+          }
+        ]
+      },
+      {
+        "totalDistributions": 96310.02,
+        "spvName": "AGRECO",
+        "spvLongName": "TFO Asia Gateway Real Estate Co-Investment Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 11213,
+            "dealName": "AGRE - Class H CHG Clearwater",
+            "distributionDate": "2020-06-30",
+            "type": "Income Distribution",
+            "amount": 2692.44
+          },
+          {
+            "dealId": 11138,
+            "dealName": "AGRE - Class F Project Ranger",
+            "distributionDate": "2020-04-14",
+            "type": "Income Distribution",
+            "amount": 20313.12
+          },
+          {
+            "dealId": 11138,
+            "dealName": "AGRE - Class F Project Ranger",
+            "distributionDate": "2020-04-14",
+            "type": "Capital Return",
+            "amount": 73304.46
+          }
+        ]
+      },
+      {
+        "totalDistributions": 427702.8,
+        "spvName": "PECO",
+        "spvLongName": "TFO Private Equity Co-Investment Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10620,
+            "dealName": "PECO - Class BZ CLC",
+            "distributionDate": "2020-06-16",
+            "type": "Captial Gain",
+            "amount": 57749.12
+          },
+          {
+            "dealId": 10697,
+            "dealName": "PECO - Class BE Small Bone Addon 3",
+            "distributionDate": "2020-04-28",
+            "type": "Capital Return",
+            "amount": 15657.4
+          },
+          {
+            "dealId": 10705,
+            "dealName": "PECO - Class BI Small Bone Add-On 4",
+            "distributionDate": "2020-04-28",
+            "type": "Captial Gain",
+            "amount": -6477.79
+          },
+          {
+            "dealId": 10617,
+            "dealName": "PECO - Class BX Busche",
+            "distributionDate": "2020-04-16",
+            "type": "Captial Gain",
+            "amount": -1586886
+          },
+          {
+            "dealId": 10617,
+            "dealName": "PECO - Class BX Busche",
+            "distributionDate": "2020-04-16",
+            "type": "Capital Return",
+            "amount": 1689075.56
+          },
+          {
+            "dealId": 10594,
+            "dealName": "PECO - Class AA Small Bone",
+            "distributionDate": "2020-04-28",
+            "type": "Captial Gain",
+            "amount": 79407.39
+          },
+          {
+            "dealId": 10604,
+            "dealName": "PECO - Class AG Small Bone Addon 1",
+            "distributionDate": "2020-04-28",
+            "type": "Capital Return",
+            "amount": 107559.16
+          },
+          {
+            "dealId": 10596,
+            "dealName": "PECO - Class AB Aricent Inc",
+            "distributionDate": "2020-06-16",
+            "type": "Captial Gain",
+            "amount": 24090.63
+          },
+          {
+            "dealId": 10699,
+            "dealName": "PECO - Class BF Friedrich",
+            "distributionDate": "2020-06-08",
+            "type": "Captial Gain",
+            "amount": 125199
+          },
+          {
+            "dealId": 10705,
+            "dealName": "PECO - Class BI Small Bone Add-On 4",
+            "distributionDate": "2020-04-28",
+            "type": "Capital Return",
+            "amount": 7671.8
+          },
+          {
+            "dealId": 10604,
+            "dealName": "PECO - Class AG Small Bone Addon 1",
+            "distributionDate": "2020-04-28",
+            "type": "Captial Gain",
+            "amount": -90639.04
+          },
+          {
+            "dealId": 10653,
+            "dealName": "PECO - Class AR Small Bone Addon 2",
+            "distributionDate": "2020-04-28",
+            "type": "Captial Gain",
+            "amount": 16837.21
+          },
+          {
+            "dealId": 10697,
+            "dealName": "PECO - Class BE Small Bone Addon 3",
+            "distributionDate": "2020-04-28",
+            "type": "Captial Gain",
+            "amount": -11541.64
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timeperiod": {
+      "year": 2020,
+      "quarter": 3
+    },
+    "spvList": [
+      {
+        "totalDistributions": 310271.28,
+        "spvName": "PECO",
+        "spvLongName": "TFO Private Equity Co-Investment Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 10711,
+            "dealName": "PECO - Class BL Merex",
+            "distributionDate": "2020-07-27",
+            "type": "Capital Return",
+            "amount": 998761.13
+          },
+          {
+            "dealId": 10711,
+            "dealName": "PECO - Class BL Merex",
+            "distributionDate": "2020-07-20",
+            "type": "Income Distribution",
+            "amount": -688489.85
+          }
+        ]
+      },
+      {
+        "totalDistributions": 1246558.35,
+        "spvName": "ACCESS",
+        "spvLongName": "TFO Access Fund SPC",
+        "dealsData": [
+          {
+            "dealId": 11072,
+            "dealName": "Access Fund Class AH Hudson",
+            "distributionDate": "2020-09-16",
+            "type": "Capital Return",
+            "amount": 324100.66
+          },
+          {
+            "dealId": 11072,
+            "dealName": "Access Fund Class AH Hudson",
+            "distributionDate": "2020-09-16",
+            "type": "Captial Gain",
+            "amount": -73467.34
+          },
+          {
+            "dealId": 10200,
+            "dealName": "Access Fund Class K LGC",
+            "distributionDate": "2020-07-01",
+            "type": "Capital Return",
+            "amount": 995925.03
+          }
+        ]
+      }
+    ]
+  }
+]
+  

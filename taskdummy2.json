@@ -1,0 +1,24 @@
+[
+  {
+    "timeperiod": {
+           "year": 2019,
+        "quarter": 4
+      },
+      "spvList": [
+        {
+          "totalDistributions": 68881.65,
+          "spvName": "ACCESS",
+          "spvLongName": "TFO Access Fund SPC",
+          "dealsData": [
+            {
+              "dealId": 10212,
+              "dealName": "Access Fund Class AG KKR BOI",
+              "distributionDate": "2019-12-31",
+              "type": "Income Distribution",
+              "amount": 8683.41
+            }
+          ]
+        }
+      ]
+    } 
+  ]
