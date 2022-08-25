@@ -24,5 +24,4 @@ insert ignore contact (number, addressid, personid) values (45445665654,4,13);
 insert ignore contact (number, addressid, personid) values (45445665654,4,14);
 insert ignore contact (number, addressid, personid) values (45445665654,4,14);
 insert ignore contact (number, addressid, personid) values (45445665654,4,14);
-insert ignore contact (number, addressid, personid) values (45445665654,4,14);
 select * from contact;
