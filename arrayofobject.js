@@ -6,6 +6,11 @@ const arrayofcars = [{
         size: 5
     },
     {
+
+
+
+
+
         name: "tata",
         model: "safari",
         type: "suv",
