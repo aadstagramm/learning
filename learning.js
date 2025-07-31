@@ -1,4 +1,7 @@
-  // 1. Ways to print in JavaScript
+// commit by aadil
+
+
+// 1. Ways to print in JavaScript
 // console.log("Hello World");
 // alert("me");
 // document.write("this is document write")
